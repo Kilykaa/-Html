@@ -1,6 +1,6 @@
 # -Html
 
-<div class="static-banner">
+"<div class="static-banner">
   <img src="https://files.catbox.moe/1v5bu1.png" alt="Static Banner">
 </div>
 
@@ -22,11 +22,11 @@
     display: block;
     border-radius: 12px;
   }
-</style>
+</style>"
 
 ================================================================================================
 
-<a href="https://example.com" target="_blank" class="promo-banner">
+"<a href="https://example.com" target="_blank" class="promo-banner">
   <img src="https://files.catbox.moe/1v5bu1.png" alt="Promo Banner">
 </a>
 
@@ -54,4 +54,4 @@
     transform: scale(1.02);
     box-shadow: 0 0 30px #ff3333, 0 0 90px #ff0000;
   }
-</style>
+</style>"
